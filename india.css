@@ -1,0 +1,161 @@
+body {
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1 {
+    font-size: 220px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    background-color: lightblue;
+}
+
+.scroll {
+    padding: 0%;
+    margin: 0%;
+    margin-top: 40px;
+    font-size: 150px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif;
+}
+
+hr {
+    margin-top: 50px;
+    color: white;
+}
+
+div .jk,
+h3 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Playfair Display', serif;
+}
+
+.p{
+    font-size: 20px;
+    font-family: 'Alegreya', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bold;
+}
+div p{
+    width: 500px;
+    text-align: center;
+    padding-left: 500px;
+}
+
+img{
+    height: 300px;
+    padding-left: 500px;
+}
+
+img.golden{
+    padding-left:550px ;
+}
+img.unity{
+    padding-left: 650px;
+}
+img.mumabai{
+    margin-right: 150px;
+}
+img.goa{
+    padding-left: 575px;
+}
+img.kerala{
+    padding-left: 530px;
+}
+img.ghat{
+    padding-left: 560px;
+}
+
+.sd{
+    padding-left: 520px;
+}
+.Mb{
+    padding-left: 520px;
+}
+.bb{
+    padding-left: 520px;
+}
+.gc{
+    padding-left: 550px;
+}
+.fy{
+    padding-left: 565px;
+}
+.tt{
+    padding-left: 505px;
+}
+.vc{
+    padding-left: 520px;
+}
+.mt{
+    padding-left: 475px;
+}
+.ott{
+    padding-left: 480px;
+}
+.pr
+{
+padding-left: 530px;
+}
+.bd{
+padding-left: 505px;
+}
+.Nice{
+    padding-left: 520px;
+}
+.pro{
+    padding-left: 510px;
+
+}
+.nig
+{
+    padding-left: 480px;
+
+}
+.mars{
+    padding-left:590px ;
+}
+
+.Rm{
+    padding-left: 520px;
+}
+.vn{
+padding-left: 480px;
+}
+.fl{
+padding-left: 520px;
+}
+.np{
+padding-left: 520px;
+}
+.amfl{
+    padding-left: 560px;
+}
+button{
+    font-size: 50px;
+    border-radius: 30px;
+    width: 300px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+button:hover{
+    text-decoration: underline;
+    background-color: aqua;
+    color: black;
+
+}
